@@ -1,0 +1,2 @@
+# sozobu
+My first repo
